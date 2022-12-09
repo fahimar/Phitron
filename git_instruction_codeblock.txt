@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "File commited no1"
+
+git push
